@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- PhantomClone ghost/shield icon -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,20 L80,32 L80,56 C80,72 66,82 54,88 C42,82 28,72 28,56 L28,32 Z"/>
+    <path
+        android:fillColor="#0A0A0F"
+        android:pathData="M54,30 L72,40 L72,56 C72,68 62,76 54,80 C46,76 36,68 36,56 L36,40 Z"/>
+    <path
+        android:fillColor="#7B2FBE"
+        android:pathData="M48,48 L60,48 L60,60 L48,60 Z"/>
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,44 L58,50 L50,50 Z"/>
+</vector>
