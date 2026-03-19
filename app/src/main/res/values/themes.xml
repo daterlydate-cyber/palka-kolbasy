@@ -1,0 +1,8 @@
+<resources>
+    <!-- Base theme (needed for the LaunchTheme / SplashScreen) -->
+    <style name="Theme.PhantomClone" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@android:color/black</item>
+        <item name="android:statusBarColor">#FF000000</item>
+        <item name="android:navigationBarColor">#FF000000</item>
+    </style>
+</resources>
